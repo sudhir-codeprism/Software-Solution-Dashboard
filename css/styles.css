@@ -1,0 +1,27 @@
+body{
+    font-family: "Helvetica Neue",sans-serif;
+	font-size: 18px;
+}
+.dropdown-item:hover{
+    background: linear-gradient(45deg,black,darkslategray);
+    color: white !important;
+    box-shadow: 0 5px 10px black;
+}
+.bg-teal{
+    background-color: #0b3f3f;
+}
+.btn-outline-black{
+    margin-top: -5px;
+}
+.text-primary{
+    color: #451571 !important;
+}
+.bg-light-blue{
+    background-color: #dfc5f7;
+}
+.bg-light-green{
+    background-color: lightgreen;
+}
+.bg-light-orange{
+    background-color: #f3daac;
+}

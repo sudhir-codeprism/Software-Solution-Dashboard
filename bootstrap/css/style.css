@@ -1,0 +1,36 @@
+/* Your custom styles */
+.btn-primary , .bg-primary{
+    background: linear-gradient(45deg,black,blueviolet);
+}
+.btn-secondary , .bg-secondary{
+    background: linear-gradient(45deg,black,purple);
+}
+.btn-success , .bg-success{
+    background: linear-gradient(45deg,black,limegreen);
+}
+.btn-info , .bg-info{
+    background: linear-gradient(45deg,black,lightblue);
+}
+.btn-warning , .bg-warning{
+    background: linear-gradient(45deg,black,orange);
+}
+.btn-danger , .bg-danger{
+    background: linear-gradient(45deg,black,red);
+}
+.btn-light , .bg-light{
+   background-color: #d8d8d8;
+}
+.btn-dark , .bg-dark{
+    background: linear-gradient(45deg,black,darkslategray);
+}
+.carousel .carousel-indicators li {
+    width: 50px;
+    height: 5px;
+    border-radius: 0;
+    cursor: pointer;
+}
+
+
+
+
+
